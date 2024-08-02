@@ -1,0 +1,18 @@
+# Operating system generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration
+.env
+local.config
+
+# Build artifacts
+build/
+dist/
+
+# IDE files
+.idea/
+*.iml
