@@ -1,4 +1,4 @@
-# mit-inventor-course
+# MIT App Inventor course 
 By [Alejandro Avella](https://www.udemy.com/user/alejandro-avella-42/)
 
 ## Module 1 - Android phone setup
