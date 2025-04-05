@@ -1,18 +1,87 @@
-# Operating system generated
-.DS_Store
-Thumbs.db
-
-# Logs
+# IntelliJ IDEA related files
+.idea/
+*.iml
+out/
+target/
+build/
+dist/
+logs/
 *.log
+report/
 
-# Local configuration
-.env
-local.config
+# Gradle related files
+.gradle/
+build/
+settings.gradle.kts.lockfile
+gradle-app.setting
+gradlew
+gradlew.bat
 
-# Build artifacts
+# Maven related files
+.mvn/
+target/
+pom.xml.lock
+.flattened-pom.xml
+
+# Eclipse related files (if you happen to have them)
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans related files (if you happen to have them)
+nbproject/
 build/
 dist/
 
-# IDE files
-.idea/
-*.iml
+# Build output and temporary files (general)
+build/
+out/
+target/
+dist/
+bin/
+tmp/
+temp/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Operating system related files
+.DS_Store
+Thumbs.db
+
+# Project-specific files you might want to ignore
+# Example: Configuration files that contain sensitive information
+# config/database.properties
+# secrets.json
+
+# Log files
+*.log
+
+# Report files
+report/
+
+# Executable files (if build produces them and you don't want to track)
+*.exe
+*.dll
+
+# Dependency management specific folders (if not covered above)
+node_modules/ # Node.js dependencies
+venv/        # Python virtual environment (if you have one here)
+env/         # Another common Python virtual environment name
+.tox/        # Tox virtual environments
+packages/    # Common for some package managers
+
+# IntelliJ local history (can be large)
+.history/
+
+# Other temporary files or directories you might create
+# my_temp_folder/
+*.backup
+*.bak
+*.swp
+*.swo
