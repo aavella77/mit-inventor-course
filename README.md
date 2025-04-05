@@ -1,6 +1,8 @@
-# MIT App Inventor course 
-By [Alejandro Avella](https://www.udemy.com/user/alejandro-avella-42/)
+# Curso del MIT App Inventor 
+Creado por:
+[Alejandro Avella](https://www.linkedin.com/in/alejandro-avella-26a0364/) and 
+[Liliana Gavidia(https://www.linkedin.com/in/liliana-gavidia-2339052/)
 
-## Module 1 - Android phone setup
-## Module 2 - Exploring MIT App Inventor
-## Module 3 - Developing your first app - Petting Uffa the Kitten
+## Modulo 1 - Instalación usando teléfono celular 
+## Module 2 - Explorando MIT App Inventor
+## Module 3 - Desarrollando su primera application - Acariciando al gatito
