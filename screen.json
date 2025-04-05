@@ -1,0 +1,50 @@
+{
+  "YaVersion": "231",
+  "Source": "Form",
+  "Properties": {
+    "$Name": "Screen1",
+    "$Type": "Form",
+    "$Version": "31",
+    "AppName": "hellopurr",
+    "Title": "Screen1",
+    "Uuid": "0",
+    "$Components": [
+      {
+        "$Name": "Button1",
+        "$Type": "Button",
+        "$Version": "7",
+        "Height": "-2",
+        "Width": "-2",
+        "Image": "kitty.png",
+        "Uuid": "966926926"
+      },
+      {
+        "$Name": "Label1",
+        "$Type": "Label",
+        "$Version": "5",
+        "FontSize": "30",
+        "Text": "pet the kitty",
+        "TextColor": "&HFFFFAFAF",
+        "Uuid": "465604823",
+        "HasMargins": "False"
+      },
+      {
+        "$Name": "Sound1",
+        "$Type": "Sound",
+        "$Version": "4",
+        "Source": "meow.mp3",
+        "Uuid": "1716638144"
+      },
+      {
+        "$Name": "Player1",
+        "$Type": "Player",
+        "$Version": "6",
+        "Source": "meow.mp3",
+        "Uuid": "1104974719"
+      }
+    ],
+    "Sizing": "Fixed",
+    "ShowListsAsJson": "False",
+    "Theme": "Classic"
+  }
+}
