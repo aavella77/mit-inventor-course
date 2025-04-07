@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"231","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"31","ActionBar":"True","AppName":"Hello_Purr","Title":"Screen1","Uuid":"0","$Components":[{"$Name":"Button1","$Type":"Button","$Version":"7","Height":"-2","Width":"-2","Image":"kitty.png","Uuid":"-358298772"},{"$Name":"Label1","$Type":"Label","$Version":"5","BackgroundColor":"&HFF0000FF","FontSize":"30","Text":"Pet the Kitty!","TextColor":"&HFFFFFF00","Uuid":"-1111785080"},{"$Name":"Sound1","$Type":"Sound","$Version":"4","Source":"meow.mp3","Uuid":"1646055200"}]}}
+|#
